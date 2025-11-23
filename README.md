@@ -13,5 +13,5 @@ This project builds and evaluates multiple ML models on the **NSL-KDD dataset**:
 - Comparison of LR, RF, XGBoost
 
 ## Files
-`IDS_NSLKDD_Project.ipynb` — full Colab notebook
+`IDS_NSLKDD.ipynb` — full Colab notebook
  `requirements.txt` — dependencies
