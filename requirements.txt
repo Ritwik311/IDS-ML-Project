@@ -1,8 +1,9 @@
-Train data: KDDTrain+.txt
-Test data: KDDTest+.txt
+Train-data-set: KDDTrain+.txt
+Test-data-set: KDDTest+.txt
 pandas
 numpy
 scikit-learn
 xgboost
 matplotlib
+
 seaborn
